@@ -1,0 +1,4 @@
+baseURL = 'https://jacksontaylorxyz.github.io'
+languageCode = 'en-us'
+title = "Jackson's Github.io site"
+theme = 'ananke'
